@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Eric John McDermid
-    - name: Date of Birth
-      value: 14th March 1879
     - name: Languages
       value: English (native), Biblical Hebrew, Biblical Greek
 
@@ -15,7 +13,7 @@
       institution: University of Glasgow, Glasgow, UK
       year: 2011
       description:
-        - Thesis:  A structural approach to matching problems with preferences}
+        - Thesis:  A structural approach to matching problems with preferences
         - Advisor:  Robert W. Irving
 
     - title: MSc, BS (Computer Science)
