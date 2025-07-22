@@ -9,21 +9,21 @@
 - title: Education
   type: time_table
   contents:
-    -title:  MA - Old Testament (expected Spring 2026)
+    - title:  MA-Old Testament (expected Spring 2026)
       institution:  Columbia Theological Seminary, Decatur, GA
       year:  2024-present
       description:
         - Thesis:  Dialogical Networks and the Psalms
         - Advisor: William P. Brown
 
-    - title: PhD - Computing Science
+    - title: PhD-Computing Science
       institution: University of Glasgow, Glasgow, UK
       year: 2011
       description:
         - Thesis:  A structural approach to matching problems with preferences
         - Advisor:  Robert W. Irving
 
-    - title: MSc, BS - Computer Science
+    - title: MSc, BS-Computer Science
       institution: University of Wisconsin-Milwaukee
       year: 2001-2006
 
