@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: I apply and create tools from computer science—statistical modeling, network analysis, and NLP—to Old Testament literature in ways that lead to new hermeneutical vistas.
+subtitle: I apply and create tools from computer science—statistical modeling, network analysis, and NLP—to Old Testament literature in ways that lead interpreters to new hermeneutical vistas.
 
 profile:
   align: right
