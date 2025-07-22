@@ -14,6 +14,7 @@ git checkout main
 echo "💾 Staging and committing changes to main..."
 git add .
 git commit -m "$MAIN_COMMIT_MSG"
+git push origin main
 
 # Step 3: Build the site
 echo "🏗️  Building site..."
